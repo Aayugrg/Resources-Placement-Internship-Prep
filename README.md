@@ -7,6 +7,7 @@ This repository contains a collection of PDF notes and resources for computer sc
 ## 📚 Contents
 
 - **Cpp prep.pdf**: C++ programming preparation notes.
+- **Agentic AI**: About basics/fundamentals to some adv stuff.
 - **SQL Notes.pdf**: SQL basics for OAs and intervews.
 - **Computer Networks.pdf**: Fundamentals on networks.
 - **CS Fundamentals**: For fundamental understanding of Comp Arch, OS, etc..
